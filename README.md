@@ -1,2 +1,2 @@
 # Python-for-Network-Engineers
-Python scripts created from the Python For Network Engineers course exercises
+Python scripts I've created from the Python For Network Engineers course exercises
