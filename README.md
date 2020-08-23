@@ -2,7 +2,7 @@
 Python scripts I've created from the Python For Network Engineers course exercises.
 Python version: 3.7.7
 
-## Week 1 - Shlls & Strings
+## Week 1 - Shells & Strings
 **Exercise 2** - IP address decimal to binary/hex converter  
 **Exercsie 3** - IPv6 address comparison tool  
 **Exercise 4** - Show version detail extraction tool  
